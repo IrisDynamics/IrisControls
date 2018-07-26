@@ -1,0 +1,43 @@
+
+
+Tue Jul 24 05:02:51 2018: opened file
+Tue Jul 24 05:02:55 2018: O6
+Tue Jul 24 05:02:55 2018: Temp: 28
+Tue Jul 24 05:02:55 2018: Vcc: 230
+Tue Jul 24 05:02:55 2018: hall: 115 | 221
+Tue Jul 24 05:02:55 2018: current: 28 | 24 | 31 | 20
+Tue Jul 24 05:02:55 2018: O7
+Tue Jul 24 05:02:55 2018: Temp: 28
+Tue Jul 24 05:02:55 2018: Vcc: 230
+Tue Jul 24 05:02:55 2018: hall: 114 | 220
+Tue Jul 24 05:02:55 2018: current: 28 | 24 | 31 | 22
+Tue Jul 24 05:04:21 2018: closed file
+
+Tue Jul 24 05:04:23 2018: opened file
+Tue Jul 24 05:04:28 2018: closed file
+
+Tue Jul 24 05:08:22 2018: opened file
+Tue Jul 24 05:08:37 2018: O6
+Tue Jul 24 05:08:37 2018: Temp: 28
+Tue Jul 24 05:08:37 2018: Vcc: 230
+Tue Jul 24 05:08:37 2018: hall: 224 | 124
+Tue Jul 24 05:08:37 2018: current: 28 | 24 | 32 | 23
+Tue Jul 24 05:08:37 2018: O7
+Tue Jul 24 05:08:37 2018: Temp: 28
+Tue Jul 24 05:08:37 2018: Vcc: 230
+Tue Jul 24 05:08:37 2018: hall: 224 | 125
+Tue Jul 24 05:08:37 2018: current: 28 | 24 | 32 | 22
+Tue Jul 24 05:08:59 2018: closed file
+
+Tue Jul 24 05:09:01 2018: opened file
+Tue Jul 24 05:09:05 2018: O6
+Tue Jul 24 05:09:05 2018: Temp: 28
+Tue Jul 24 05:09:05 2018: Vcc: 230
+Tue Jul 24 05:09:05 2018: hall: 224 | 124
+Tue Jul 24 05:09:05 2018: current: 27 | 24 | 32 | 23
+Tue Jul 24 05:09:05 2018: O7
+Tue Jul 24 05:09:05 2018: Temp: 28
+Tue Jul 24 05:09:05 2018: Vcc: 230
+Tue Jul 24 05:09:05 2018: hall: 224 | 125
+Tue Jul 24 05:09:05 2018: current: 27 | 24 | 32 | 22
+Tue Jul 24 05:24:51 2018: closed file

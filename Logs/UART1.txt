@@ -1,0 +1,16 @@
+
+
+Tue Jul 24 05:02:51 2018: opened file
+Tue Jul 24 05:04:21 2018: closed file
+
+Tue Jul 24 05:04:23 2018: opened file
+Tue Jul 24 05:04:23 2018: CRC errors: 1151
+Tue Jul 24 05:04:24 2018: CRC errors: 1
+Tue Jul 24 05:04:28 2018: closed file
+
+Tue Jul 24 05:08:22 2018: opened file
+Tue Jul 24 05:08:22 2018: CRC errors: 1558
+Tue Jul 24 05:08:59 2018: closed file
+
+Tue Jul 24 05:09:01 2018: opened file
+Tue Jul 24 05:24:51 2018: closed file

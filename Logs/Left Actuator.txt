@@ -1,0 +1,47 @@
+
+
+Tue Jul 24 05:02:51 2018: opened file
+Tue Jul 24 05:02:55 2018: O10
+Tue Jul 24 05:02:55 2018: Temp: 26
+Tue Jul 24 05:02:55 2018: Vcc: 230
+Tue Jul 24 05:02:55 2018: hall: 44 | 179
+Tue Jul 24 05:02:55 2018: current: 32 | 25 | 26 | 28
+Tue Jul 24 05:02:55 2018: O11
+Tue Jul 24 05:02:55 2018: Temp: 26
+Tue Jul 24 05:02:55 2018: Vcc: 230
+Tue Jul 24 05:02:55 2018: hall: 44 | 180
+Tue Jul 24 05:02:55 2018: current: 32 | 25 | 26 | 28
+Tue Jul 24 05:04:21 2018: closed file
+
+Tue Jul 24 05:04:23 2018: opened file
+Tue Jul 24 05:04:28 2018: closed file
+
+Tue Jul 24 05:08:22 2018: opened file
+Tue Jul 24 05:08:37 2018: O10 failed to initialize
+Tue Jul 24 05:08:37 2018: bridge checks: 15
+Tue Jul 24 05:08:37 2018: issue getting info for driver a
+Tue Jul 24 05:08:37 2018: Temp: 26
+Tue Jul 24 05:08:37 2018: Vcc: 230
+Tue Jul 24 05:08:37 2018: hall: 44 | 180
+Tue Jul 24 05:08:37 2018: current: 32 | 25 | 26 | 28
+Tue Jul 24 05:08:37 2018: O11 failed to initialize
+Tue Jul 24 05:08:37 2018: bridge checks: 15
+Tue Jul 24 05:08:37 2018: issue getting info for driver b
+Tue Jul 24 05:08:37 2018: Temp: 26
+Tue Jul 24 05:08:37 2018: Vcc: 230
+Tue Jul 24 05:08:37 2018: hall: 110 | 28
+Tue Jul 24 05:08:37 2018: current: 29 | 17 | 23 | 21
+Tue Jul 24 05:08:59 2018: closed file
+
+Tue Jul 24 05:09:01 2018: opened file
+Tue Jul 24 05:09:05 2018: O10
+Tue Jul 24 05:09:05 2018: Temp: 26
+Tue Jul 24 05:09:05 2018: Vcc: 230
+Tue Jul 24 05:09:05 2018: hall: 216 | 80
+Tue Jul 24 05:09:05 2018: current: 31 | 25 | 27 | 29
+Tue Jul 24 05:09:05 2018: O11
+Tue Jul 24 05:09:05 2018: Temp: 26
+Tue Jul 24 05:09:05 2018: Vcc: 230
+Tue Jul 24 05:09:05 2018: hall: 215 | 75
+Tue Jul 24 05:09:05 2018: current: 31 | 25 | 27 | 28
+Tue Jul 24 05:24:51 2018: closed file
