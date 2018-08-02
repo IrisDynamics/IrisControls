@@ -41,3 +41,102 @@ Tue Jul 24 05:09:05 2018: Vcc: 230
 Tue Jul 24 05:09:05 2018: hall: 224 | 125
 Tue Jul 24 05:09:05 2018: current: 27 | 24 | 32 | 22
 Tue Jul 24 05:24:51 2018: closed file
+
+Thu Aug 2 12:40:37 2018: opened file
+Thu Aug 2 12:40:38 2018: Stating init...
+Thu Aug 2 12:40:39 2018: O6initialized successfully
+Thu Aug 2 12:40:39 2018: O7 initialized successfully
+Thu Aug 2 12:40:39 2018: O6|29|23|30|24|34|67|27|230
+Thu Aug 2 12:40:39 2018: O6<2><1><140><40><123><100><76><66><250>
+Thu Aug 2 12:40:39 2018: O6.255.255.122.122.22.31.24.27.
+Thu Aug 2 12:40:39 2018: O7|21|26|26|29|27|149|26|229
+Thu Aug 2 12:40:39 2018: O7<1><4><140><40><123><100><76><66><250>
+Thu Aug 2 12:40:39 2018: O7.255.255.124.122.28.27.26.20.
+Thu Aug 2 12:40:39 2018: ...finish init
+Thu Aug 2 12:49:06 2018: closed file
+
+Thu Aug 2 13:22:33 2018: opened file
+Thu Aug 2 13:22:34 2018: Stating init...
+Thu Aug 2 13:22:35 2018: O6initialized successfully
+Thu Aug 2 13:22:35 2018: O7 initialized successfully
+Thu Aug 2 13:22:35 2018: O6|29|23|30|24|39|60|26|230
+Thu Aug 2 13:22:35 2018: O6<2><1><140><40><123><100><76><66><250>
+Thu Aug 2 13:22:35 2018: O6.255.255.122.122.22.31.24.27.
+Thu Aug 2 13:22:35 2018: O7|21|26|26|28|24|157|25|229
+Thu Aug 2 13:22:35 2018: O7<1><4><140><40><123><100><76><66><250>
+Thu Aug 2 13:22:35 2018: O7.255.255.124.122.28.27.26.20.
+Thu Aug 2 13:22:35 2018: ...finish init
+Thu Aug 2 13:22:35 2018: O6 detected reset
+Thu Aug 2 13:22:35 2018: O7 detected reset
+Thu Aug 2 13:22:35 2018: O7 cleared reset warning
+Thu Aug 2 13:22:35 2018: O7 cleared reset warning
+Thu Aug 2 13:23:14 2018: closed file
+
+Thu Aug 2 13:23:16 2018: opened file
+Thu Aug 2 13:23:17 2018: Stating init...
+Thu Aug 2 13:23:18 2018: O6initialized successfully
+Thu Aug 2 13:23:18 2018: O7 initialized successfully
+Thu Aug 2 13:23:18 2018: O6|29|23|30|24|31|70|26|230
+Thu Aug 2 13:23:18 2018: O6<2><1><140><40><123><100><76><66><250>
+Thu Aug 2 13:23:18 2018: O6.255.255.122.122.22.31.24.27.
+Thu Aug 2 13:23:18 2018: O7|20|26|26|28|28|145|25|229
+Thu Aug 2 13:23:18 2018: O7<1><4><140><40><123><100><76><66><250>
+Thu Aug 2 13:23:18 2018: O7.255.255.124.122.28.27.26.20.
+Thu Aug 2 13:23:18 2018: ...finish init
+Thu Aug 2 13:23:18 2018: O6 detected reset
+Thu Aug 2 13:23:18 2018: O7 detected reset
+Thu Aug 2 13:23:18 2018: O7 cleared reset warning
+Thu Aug 2 13:23:18 2018: O7 cleared reset warning
+Thu Aug 2 13:25:57 2018: closed file
+
+Thu Aug 2 13:25:59 2018: opened file
+Thu Aug 2 13:26:00 2018: Stating init...
+Thu Aug 2 13:26:00 2018: O6initialized successfully
+Thu Aug 2 13:26:00 2018: O7 initialized successfully
+Thu Aug 2 13:26:00 2018: O6|29|23|30|24|31|71|26|230
+Thu Aug 2 13:26:00 2018: O6<2><1><140><40><123><100><76><66><250>
+Thu Aug 2 13:26:00 2018: O6.255.255.122.122.22.31.24.27.
+Thu Aug 2 13:26:00 2018: O7|20|26|26|28|28|144|25|229
+Thu Aug 2 13:26:00 2018: O7<1><4><140><40><123><100><76><66><250>
+Thu Aug 2 13:26:00 2018: O7.255.255.124.122.28.27.26.20.
+Thu Aug 2 13:26:00 2018: ...finish init
+Thu Aug 2 13:45:55 2018: closed file
+
+Thu Aug 2 13:45:57 2018: opened file
+Thu Aug 2 13:45:58 2018: Stating init...
+Thu Aug 2 13:45:58 2018: O6initialized successfully
+Thu Aug 2 13:45:58 2018: O7 initialized successfully
+Thu Aug 2 13:45:58 2018: O6|29|23|30|24|20|184|26|230
+Thu Aug 2 13:45:58 2018: O6<2><1><140><40><123><100><76><66><250>
+Thu Aug 2 13:45:58 2018: O6.255.255.122.122.22.31.24.27.
+Thu Aug 2 13:45:58 2018: O7|21|26|26|28|86|17|26|229
+Thu Aug 2 13:45:58 2018: O7<1><4><140><40><123><100><76><66><250>
+Thu Aug 2 13:45:58 2018: O7.255.255.124.122.28.27.26.20.
+Thu Aug 2 13:45:58 2018: ...finish init
+Thu Aug 2 13:47:12 2018: closed file
+
+Thu Aug 2 13:47:14 2018: opened file
+Thu Aug 2 13:47:15 2018: Stating init...
+Thu Aug 2 13:47:15 2018: O6initialized successfully
+Thu Aug 2 13:47:15 2018: O7 initialized successfully
+Thu Aug 2 13:47:15 2018: O6|29|23|30|24|21|186|26|230
+Thu Aug 2 13:47:15 2018: O6<2><1><140><40><123><100><76><66><250>
+Thu Aug 2 13:47:15 2018: O6.255.255.122.122.22.31.24.27.
+Thu Aug 2 13:47:15 2018: O7|21|26|26|28|88|17|26|229
+Thu Aug 2 13:47:15 2018: O7<1><4><140><40><123><100><76><66><250>
+Thu Aug 2 13:47:15 2018: O7.255.255.124.122.28.27.26.20.
+Thu Aug 2 13:47:15 2018: ...finish init
+Thu Aug 2 13:48:22 2018: closed file
+
+Thu Aug 2 13:48:24 2018: opened file
+Thu Aug 2 13:48:25 2018: Stating init...
+Thu Aug 2 13:48:25 2018: O6initialized successfully
+Thu Aug 2 13:48:26 2018: O7 initialized successfully
+Thu Aug 2 13:48:26 2018: O6|29|23|30|24|37|209|26|230
+Thu Aug 2 13:48:26 2018: O6<2><1><140><40><123><100><76><66><250>
+Thu Aug 2 13:48:26 2018: O6.255.255.122.122.22.31.24.27.
+Thu Aug 2 13:48:26 2018: O7|21|26|26|28|121|10|26|229
+Thu Aug 2 13:48:26 2018: O7<1><4><140><40><123><100><76><66><250>
+Thu Aug 2 13:48:26 2018: O7.255.255.124.122.28.27.26.20.
+Thu Aug 2 13:48:26 2018: ...finish init
+Thu Aug 2 13:53:45 2018: closed file

@@ -45,3 +45,102 @@ Tue Jul 24 05:09:05 2018: Vcc: 230
 Tue Jul 24 05:09:05 2018: hall: 215 | 75
 Tue Jul 24 05:09:05 2018: current: 31 | 25 | 27 | 28
 Tue Jul 24 05:24:51 2018: closed file
+
+Thu Aug 2 12:40:37 2018: opened file
+Thu Aug 2 12:40:38 2018: Stating init...
+Thu Aug 2 12:40:38 2018: O10initialized successfully
+Thu Aug 2 12:40:38 2018: O11 initialized successfully
+Thu Aug 2 12:40:38 2018: O10|34|24|26|29|38|136|27|230
+Thu Aug 2 12:40:38 2018: O10<1><4><140><40><123><100><76><66><250>
+Thu Aug 2 12:40:38 2018: O10.255.255.123.124.29.26.25.32.
+Thu Aug 2 12:40:38 2018: O11|29|17|22|22|37|75|27|230
+Thu Aug 2 12:40:38 2018: O11<2><1><140><40><123><100><76><66><250>
+Thu Aug 2 12:40:38 2018: O11.255.255.123.124.21.23.17.29.
+Thu Aug 2 12:40:38 2018: ...finish init
+Thu Aug 2 12:49:06 2018: closed file
+
+Thu Aug 2 13:22:33 2018: opened file
+Thu Aug 2 13:22:34 2018: Stating init...
+Thu Aug 2 13:22:34 2018: O10initialized successfully
+Thu Aug 2 13:22:34 2018: O11 initialized successfully
+Thu Aug 2 13:22:34 2018: O10|34|24|26|29|35|145|26|230
+Thu Aug 2 13:22:34 2018: O10<1><4><140><40><123><100><76><66><250>
+Thu Aug 2 13:22:34 2018: O10.255.255.123.124.29.26.25.32.
+Thu Aug 2 13:22:34 2018: O11|29|17|22|22|42|68|26|230
+Thu Aug 2 13:22:34 2018: O11<2><1><140><40><123><100><76><66><250>
+Thu Aug 2 13:22:34 2018: O11.255.255.123.124.21.23.17.29.
+Thu Aug 2 13:22:34 2018: ...finish init
+Thu Aug 2 13:22:35 2018: O10 detected reset
+Thu Aug 2 13:22:35 2018: O11 detected reset
+Thu Aug 2 13:22:35 2018: O11 cleared reset warning
+Thu Aug 2 13:22:35 2018: O11 cleared reset warning
+Thu Aug 2 13:23:14 2018: closed file
+
+Thu Aug 2 13:23:16 2018: opened file
+Thu Aug 2 13:23:17 2018: Stating init...
+Thu Aug 2 13:23:17 2018: O10initialized successfully
+Thu Aug 2 13:23:17 2018: O11 initialized successfully
+Thu Aug 2 13:23:17 2018: O10|34|24|26|29|42|132|26|230
+Thu Aug 2 13:23:17 2018: O10<1><4><140><40><123><100><76><66><250>
+Thu Aug 2 13:23:17 2018: O10.255.255.123.124.29.26.25.32.
+Thu Aug 2 13:23:17 2018: O11|29|17|22|22|33|81|26|230
+Thu Aug 2 13:23:17 2018: O11<2><1><140><40><123><100><76><66><250>
+Thu Aug 2 13:23:17 2018: O11.255.255.123.124.21.23.17.29.
+Thu Aug 2 13:23:17 2018: ...finish init
+Thu Aug 2 13:23:18 2018: O10 detected reset
+Thu Aug 2 13:23:18 2018: O11 detected reset
+Thu Aug 2 13:23:18 2018: O11 cleared reset warning
+Thu Aug 2 13:23:18 2018: O11 cleared reset warning
+Thu Aug 2 13:25:57 2018: closed file
+
+Thu Aug 2 13:25:58 2018: opened file
+Thu Aug 2 13:25:59 2018: Stating init...
+Thu Aug 2 13:25:59 2018: O10initialized successfully
+Thu Aug 2 13:26:00 2018: O11 initialized successfully
+Thu Aug 2 13:26:00 2018: O10|34|24|26|29|38|139|26|230
+Thu Aug 2 13:26:00 2018: O10<1><4><140><40><123><100><76><66><250>
+Thu Aug 2 13:26:00 2018: O10.255.255.123.124.29.26.25.32.
+Thu Aug 2 13:26:00 2018: O11|29|17|22|22|37|73|26|230
+Thu Aug 2 13:26:00 2018: O11<2><1><140><40><123><100><76><66><250>
+Thu Aug 2 13:26:00 2018: O11.255.255.123.124.21.23.17.29.
+Thu Aug 2 13:26:00 2018: ...finish init
+Thu Aug 2 13:45:55 2018: closed file
+
+Thu Aug 2 13:45:57 2018: opened file
+Thu Aug 2 13:45:58 2018: Stating init...
+Thu Aug 2 13:45:58 2018: O10initialized successfully
+Thu Aug 2 13:45:58 2018: O11 initialized successfully
+Thu Aug 2 13:45:58 2018: O10|34|24|26|29|97|23|26|230
+Thu Aug 2 13:45:58 2018: O10<1><4><140><40><123><100><76><66><250>
+Thu Aug 2 13:45:58 2018: O10.255.255.123.124.29.26.25.32.
+Thu Aug 2 13:45:58 2018: O11|29|17|22|22|35|177|26|230
+Thu Aug 2 13:45:58 2018: O11<2><1><140><40><123><100><76><66><250>
+Thu Aug 2 13:45:58 2018: O11.255.255.123.124.21.23.17.29.
+Thu Aug 2 13:45:58 2018: ...finish init
+Thu Aug 2 13:47:12 2018: closed file
+
+Thu Aug 2 13:47:14 2018: opened file
+Thu Aug 2 13:47:15 2018: Stating init...
+Thu Aug 2 13:47:15 2018: O10initialized successfully
+Thu Aug 2 13:47:15 2018: O11 initialized successfully
+Thu Aug 2 13:47:15 2018: O10|34|24|26|29|98|23|26|230
+Thu Aug 2 13:47:15 2018: O10<1><4><140><40><123><100><76><66><250>
+Thu Aug 2 13:47:15 2018: O10.255.255.123.124.29.26.25.32.
+Thu Aug 2 13:47:15 2018: O11|29|17|22|22|35|178|26|230
+Thu Aug 2 13:47:15 2018: O11<2><1><140><40><123><100><76><66><250>
+Thu Aug 2 13:47:15 2018: O11.255.255.123.124.21.23.17.29.
+Thu Aug 2 13:47:15 2018: ...finish init
+Thu Aug 2 13:48:22 2018: closed file
+
+Thu Aug 2 13:48:24 2018: opened file
+Thu Aug 2 13:48:25 2018: Stating init...
+Thu Aug 2 13:48:25 2018: O10initialized successfully
+Thu Aug 2 13:48:25 2018: O11 initialized successfully
+Thu Aug 2 13:48:25 2018: O10|34|24|26|29|132|18|26|230
+Thu Aug 2 13:48:25 2018: O10<1><4><140><40><123><100><76><66><250>
+Thu Aug 2 13:48:25 2018: O10.255.255.123.124.29.26.25.32.
+Thu Aug 2 13:48:25 2018: O11|29|17|22|22|55|200|26|230
+Thu Aug 2 13:48:25 2018: O11<2><1><140><40><123><100><76><66><250>
+Thu Aug 2 13:48:25 2018: O11.255.255.123.124.21.23.17.29.
+Thu Aug 2 13:48:25 2018: ...finish init
+Thu Aug 2 13:53:45 2018: closed file
