@@ -1,0 +1,75 @@
+
+
+Fri Jun 21 13:07:00 2019: opened file
+Fri Jun 21 13:07:01 2019: ===================Location check v1.0======================
+Fri Jun 21 13:07:01 2019: Starting test...
+Fri Jun 21 13:07:02 2019: SUCCESSFUL Location check v1.0
+Fri Jun 21 13:07:04 2019: ===================Configuration Test v1.0======================
+Fri Jun 21 13:07:04 2019: Starting test...
+Fri Jun 21 13:07:05 2019: Serial Number: 100012	Build ID: 27712	Firmware Version: 1
+Fri Jun 21 13:07:05 2019: Position Polarity: 2	Motor winding: 1	Exponent: 128	TempCode1: 103	TempCode2: 103	TempThrottle: 150
+Fri Jun 21 13:07:05 2019: Serial Number: 100003	Build ID: 27712	Firmware Version: 1
+Fri Jun 21 13:07:05 2019: Position Polarity: 1	Motor winding: 8	Exponent: 128	TempCode1: 103	TempCode2: 103	TempThrottle: 150
+Fri Jun 21 13:07:05 2019: Success: Handshake
+Fri Jun 21 13:07:05 2019: Success: Config
+Fri Jun 21 13:07:05 2019: Success: Offsets
+Fri Jun 21 13:07:05 2019: Success: Sensors
+Fri Jun 21 13:07:05 2019: Success: HBridge
+Fri Jun 21 13:07:05 2019: Success: Settings
+Fri Jun 21 13:07:05 2019: SUCCESSFUL Configuration Test v1.0
+Fri Jun 21 13:07:07 2019: ===================Resistance Test v1.0======================
+Fri Jun 21 13:07:07 2019: Starting test...
+Fri Jun 21 13:07:07 2019: Target Resistance: 1.20 Ohm	Tolerance: 0.20 Ohm
+Fri Jun 21 13:07:09 2019: Orca A
+Fri Jun 21 13:07:09 2019: Res A+: 1.18
+Fri Jun 21 13:07:09 2019: Res A+: 1.18
+Fri Jun 21 13:07:09 2019: Res A+: 1.19
+Fri Jun 21 13:07:09 2019: Res A+: 1.17
+Fri Jun 21 13:07:10 2019: Orca B
+Fri Jun 21 13:07:10 2019: Res A+: 1.14
+Fri Jun 21 13:07:10 2019: Res A+: 1.16
+Fri Jun 21 13:07:10 2019: Res A+: 1.18
+Fri Jun 21 13:07:10 2019: Res A+: 1.17
+Fri Jun 21 13:07:10 2019: SUCCESSFUL Resistance Test v1.0
+Fri Jun 21 13:07:14 2019: ===================Current Sweep Test v1.0======================
+Fri Jun 21 13:07:14 2019: Starting test...
+Fri Jun 21 13:07:14 2019: ===============================
+Fri Jun 21 13:07:16 2019: Percent of Ideal Current:	Avg: 104%	Stdev1.37%
+Fri Jun 21 13:07:16 2019: Success: OrcaA IA+
+Fri Jun 21 13:07:16 2019: ===============================
+Fri Jun 21 13:07:18 2019: Percent of Ideal Current:	Avg: 103%	Stdev2.09%
+Fri Jun 21 13:07:18 2019: Success: OrcaA IA-
+Fri Jun 21 13:07:18 2019: ===============================
+Fri Jun 21 13:07:20 2019: Percent of Ideal Current:	Avg: 102%	Stdev2.67%
+Fri Jun 21 13:07:20 2019: Success: OrcaA IB+
+Fri Jun 21 13:07:20 2019: ===============================
+Fri Jun 21 13:07:22 2019: Percent of Ideal Current:	Avg: 104%	Stdev1.24%
+Fri Jun 21 13:07:22 2019: Success: OrcaA IB-
+Fri Jun 21 13:07:22 2019: ===============================
+Fri Jun 21 13:07:25 2019: Percent of Ideal Current:	Avg: 107%	Stdev1.76%
+Fri Jun 21 13:07:25 2019: Success: OrcaB IA+
+Fri Jun 21 13:07:25 2019: ===============================
+Fri Jun 21 13:07:27 2019: Percent of Ideal Current:	Avg: 102%	Stdev3.40%
+Fri Jun 21 13:07:27 2019: Success: OrcaB IA-
+Fri Jun 21 13:07:27 2019: ===============================
+Fri Jun 21 13:07:29 2019: Percent of Ideal Current:	Avg: 103%	Stdev1.84%
+Fri Jun 21 13:07:29 2019: Success: OrcaB IB+
+Fri Jun 21 13:07:29 2019: ===============================
+Fri Jun 21 13:07:31 2019: Percent of Ideal Current:	Avg: 103%	Stdev1.99%
+Fri Jun 21 13:07:31 2019: Success: OrcaB IB-
+Fri Jun 21 13:07:31 2019: SUCCESSFUL Current Sweep Test v1.0
+Fri Jun 21 13:07:47 2019: ===================WeightLift Test v1.1======================
+Fri Jun 21 13:07:47 2019: Starting test...
+Fri Jun 21 13:07:47 2019: Target cycles: 5	Spring constant: 
+Fri Jun 21 13:07:47 2019: Cycle start: 1	Temp: 33.86
+Fri Jun 21 13:07:49 2019: Cycle complete. 	Time: 1703
+Fri Jun 21 13:07:52 2019: Cycle start: 2	Temp: 33.86
+Fri Jun 21 13:07:53 2019: Cycle complete. 	Time: 1701
+Fri Jun 21 13:07:56 2019: Cycle start: 3	Temp: 34.28
+Fri Jun 21 13:07:58 2019: Cycle complete. 	Time: 1699
+Fri Jun 21 13:08:01 2019: Cycle start: 4	Temp: 34.28
+Fri Jun 21 13:08:03 2019: Cycle complete. 	Time: 1700
+Fri Jun 21 13:08:06 2019: Cycle start: 5	Temp: 34.70
+Fri Jun 21 13:08:08 2019: Cycle complete. 	Time: 1701
+Fri Jun 21 13:08:11 2019: SUCCESSFUL WeightLift Test v1.1
+Fri Jun 21 13:11:18 2019: closed file

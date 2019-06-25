@@ -1,0 +1,186 @@
+
+
+Tue Jun 18 16:58:52 2019: opened file
+Tue Jun 18 16:58:52 2019: ===================Location check======================
+Tue Jun 18 16:58:52 2019: Starting test...
+Tue Jun 18 16:58:53 2019: FAILED Location check
+Tue Jun 18 17:01:05 2019: closed file
+
+Tue Jun 18 17:01:34 2019: opened file
+Tue Jun 18 17:01:34 2019: ===================Location check======================
+Tue Jun 18 17:01:34 2019: Starting test...
+Tue Jun 18 17:01:34 2019: FAILED Location check
+Tue Jun 18 17:02:39 2019: closed file
+
+Tue Jun 18 17:07:50 2019: opened file
+Tue Jun 18 17:07:50 2019: ===================System check======================
+Tue Jun 18 17:07:50 2019: Starting test...
+Tue Jun 18 17:07:50 2019: Serial Number: 110014	Build ID: 27712	Firmware Version: 1
+Tue Jun 18 17:07:50 2019: Position Polarity: 1	Motor winding: 4	Exponent: 103	TempCode1: 103	TempCode2: 150	TempThrottle: 128
+Tue Jun 18 17:07:50 2019: Serial Number: 110007	Build ID: 27712	Firmware Version: 1
+Tue Jun 18 17:07:50 2019: Position Polarity: 2	Motor winding: 1	Exponent: 103	TempCode1: 103	TempCode2: 150	TempThrottle: 128
+Tue Jun 18 17:07:50 2019: Success: Handshake
+Tue Jun 18 17:07:50 2019: Success: Config
+Tue Jun 18 17:07:50 2019: Failure: Offsets
+Tue Jun 18 17:07:50 2019: Not Run: Sensors
+Tue Jun 18 17:07:50 2019: Not Run: HBridge
+Tue Jun 18 17:07:50 2019: Not Run: Settings
+Tue Jun 18 17:07:50 2019: FAILED System check
+Tue Jun 18 17:07:54 2019: ===================System check======================
+Tue Jun 18 17:07:54 2019: Starting test...
+Tue Jun 18 17:07:55 2019: Serial Number: 110014	Build ID: 27712	Firmware Version: 1
+Tue Jun 18 17:07:55 2019: Position Polarity: 1	Motor winding: 4	Exponent: 103	TempCode1: 103	TempCode2: 150	TempThrottle: 128
+Tue Jun 18 17:07:55 2019: Serial Number: 110007	Build ID: 27712	Firmware Version: 1
+Tue Jun 18 17:07:55 2019: Position Polarity: 2	Motor winding: 1	Exponent: 103	TempCode1: 103	TempCode2: 150	TempThrottle: 128
+Tue Jun 18 17:07:55 2019: Success: Handshake
+Tue Jun 18 17:07:55 2019: Success: Config
+Tue Jun 18 17:07:55 2019: Failure: Offsets
+Tue Jun 18 17:07:55 2019: Not Run: Sensors
+Tue Jun 18 17:07:55 2019: Not Run: HBridge
+Tue Jun 18 17:07:55 2019: Not Run: Settings
+Tue Jun 18 17:07:55 2019: FAILED System check
+Tue Jun 18 17:07:57 2019: ===================System check======================
+Tue Jun 18 17:07:57 2019: Starting test...
+Tue Jun 18 17:07:58 2019: Serial Number: 110014	Build ID: 27712	Firmware Version: 1
+Tue Jun 18 17:07:58 2019: Position Polarity: 1	Motor winding: 4	Exponent: 103	TempCode1: 103	TempCode2: 150	TempThrottle: 128
+Tue Jun 18 17:07:58 2019: Serial Number: 110007	Build ID: 27712	Firmware Version: 1
+Tue Jun 18 17:07:58 2019: Position Polarity: 2	Motor winding: 1	Exponent: 103	TempCode1: 103	TempCode2: 150	TempThrottle: 128
+Tue Jun 18 17:07:58 2019: Success: Handshake
+Tue Jun 18 17:07:58 2019: Success: Config
+Tue Jun 18 17:07:58 2019: Failure: Offsets
+Tue Jun 18 17:07:58 2019: Not Run: Sensors
+Tue Jun 18 17:07:58 2019: Not Run: HBridge
+Tue Jun 18 17:07:58 2019: Not Run: Settings
+Tue Jun 18 17:07:58 2019: FAILED System check
+Tue Jun 18 17:08:05 2019: ===================Temp Cycle Test======================
+Tue Jun 18 17:08:05 2019: Starting test...
+Tue Jun 18 17:09:21 2019: closed file
+
+Tue Jun 18 17:11:51 2019: opened file
+Tue Jun 18 17:11:51 2019: ===================Location check======================
+Tue Jun 18 17:11:51 2019: Starting test...
+Tue Jun 18 17:11:51 2019: FAILED Location check
+Tue Jun 18 17:12:28 2019: closed file
+
+Tue Jun 18 17:12:34 2019: opened file
+Tue Jun 18 17:12:34 2019: ===================Location check======================
+Tue Jun 18 17:12:34 2019: Starting test...
+Tue Jun 18 17:12:36 2019: SUCCESSFUL Location check
+Tue Jun 18 17:12:49 2019: ===================Location check======================
+Tue Jun 18 17:12:49 2019: Starting test...
+Tue Jun 18 17:12:51 2019: SUCCESSFUL Location check
+Tue Jun 18 17:14:38 2019: closed file
+
+Tue Jun 18 17:14:42 2019: opened file
+Tue Jun 18 17:14:42 2019: ===================Location check======================
+Tue Jun 18 17:14:42 2019: Starting test...
+Tue Jun 18 17:14:44 2019: SUCCESSFUL Location check
+Tue Jun 18 17:15:30 2019: closed file
+
+Tue Jun 18 17:15:37 2019: opened file
+Tue Jun 18 17:15:37 2019: ===================Location check======================
+Tue Jun 18 17:15:37 2019: Starting test...
+Tue Jun 18 17:15:38 2019: SUCCESSFUL Location check
+Tue Jun 18 17:16:06 2019: closed file
+
+Tue Jun 18 17:16:12 2019: opened file
+Tue Jun 18 17:16:12 2019: ===================Location check======================
+Tue Jun 18 17:16:12 2019: Starting test...
+Tue Jun 18 17:16:14 2019: SUCCESSFUL Location check
+Tue Jun 18 17:17:05 2019: closed file
+
+Tue Jun 18 17:17:11 2019: opened file
+Tue Jun 18 17:17:11 2019: ===================Location check======================
+Tue Jun 18 17:17:11 2019: Starting test...
+Tue Jun 18 17:17:13 2019: SUCCESSFUL Location check
+Tue Jun 18 17:17:41 2019: closed file
+
+Tue Jun 18 17:17:47 2019: opened file
+Tue Jun 18 17:17:47 2019: ===================Location check======================
+Tue Jun 18 17:17:47 2019: Starting test...
+Tue Jun 18 17:17:49 2019: SUCCESSFUL Location check
+Tue Jun 18 17:18:42 2019: closed file
+
+Tue Jun 18 17:18:49 2019: opened file
+Tue Jun 18 17:18:49 2019: ===================Location check======================
+Tue Jun 18 17:18:49 2019: Starting test...
+Tue Jun 18 17:18:51 2019: SUCCESSFUL Location check
+Tue Jun 18 17:19:08 2019: closed file
+
+Tue Jun 18 17:19:11 2019: opened file
+Tue Jun 18 17:19:11 2019: ===================Location check======================
+Tue Jun 18 17:19:11 2019: Starting test...
+Tue Jun 18 17:19:13 2019: SUCCESSFUL Location check
+Tue Jun 18 17:20:36 2019: closed file
+
+Tue Jun 18 17:20:44 2019: opened file
+Tue Jun 18 17:20:44 2019: ===================Location check======================
+Tue Jun 18 17:20:44 2019: Starting test...
+Tue Jun 18 17:20:46 2019: SUCCESSFUL Location check
+Tue Jun 18 17:20:52 2019: ===================Location check======================
+Tue Jun 18 17:20:52 2019: Starting test...
+Tue Jun 18 17:20:54 2019: SUCCESSFUL Location check
+Tue Jun 18 17:21:37 2019: closed file
+
+Tue Jun 18 17:22:37 2019: opened file
+Tue Jun 18 17:22:37 2019: ===================Location check======================
+Tue Jun 18 17:22:37 2019: Starting test...
+Tue Jun 18 17:22:39 2019: SUCCESSFUL Location check
+Tue Jun 18 17:23:47 2019: closed file
+
+Tue Jun 18 17:40:35 2019: opened file
+Tue Jun 18 17:40:35 2019: ===================Location check======================
+Tue Jun 18 17:40:35 2019: Starting test...
+Tue Jun 18 17:40:37 2019: SUCCESSFUL Location check
+Tue Jun 18 17:40:42 2019: ===================System check======================
+Tue Jun 18 17:40:42 2019: Starting test...
+Tue Jun 18 17:40:43 2019: Serial Number: 110014	Build ID: 27712	Firmware Version: 1
+Tue Jun 18 17:40:43 2019: Position Polarity: 1	Motor winding: 4	Exponent: 103	TempCode1: 103	TempCode2: 150	TempThrottle: 128
+Tue Jun 18 17:40:43 2019: Serial Number: 110007	Build ID: 27712	Firmware Version: 1
+Tue Jun 18 17:40:43 2019: Position Polarity: 2	Motor winding: 1	Exponent: 103	TempCode1: 103	TempCode2: 150	TempThrottle: 128
+Tue Jun 18 17:40:43 2019: Success: Handshake
+Tue Jun 18 17:40:43 2019: Success: Config
+Tue Jun 18 17:40:43 2019: Failure: Offsets
+Tue Jun 18 17:40:43 2019: Not Run: Sensors
+Tue Jun 18 17:40:43 2019: Not Run: HBridge
+Tue Jun 18 17:40:43 2019: Not Run: Settings
+Tue Jun 18 17:40:43 2019: FAILED System check
+Tue Jun 18 17:44:30 2019: closed file
+
+Tue Jun 18 17:44:36 2019: opened file
+Tue Jun 18 17:44:36 2019: ===================Location check======================
+Tue Jun 18 17:44:36 2019: Starting test...
+Tue Jun 18 17:44:38 2019: SUCCESSFUL Location check
+Tue Jun 18 17:44:42 2019: ===================System check======================
+Tue Jun 18 17:44:42 2019: Starting test...
+Tue Jun 18 17:44:43 2019: Serial Number: 110014	Build ID: 27712	Firmware Version: 1
+Tue Jun 18 17:44:43 2019: Position Polarity: 1	Motor winding: 4	Exponent: 103	TempCode1: 103	TempCode2: 150	TempThrottle: 128
+Tue Jun 18 17:44:43 2019: Serial Number: 110007	Build ID: 27712	Firmware Version: 1
+Tue Jun 18 17:44:43 2019: Position Polarity: 2	Motor winding: 1	Exponent: 103	TempCode1: 103	TempCode2: 150	TempThrottle: 128
+Tue Jun 18 17:44:44 2019: Success: Handshake
+Tue Jun 18 17:44:44 2019: Success: Config
+Tue Jun 18 17:44:44 2019: Failure: Offsets
+Tue Jun 18 17:44:44 2019: Not Run: Sensors
+Tue Jun 18 17:44:44 2019: Not Run: HBridge
+Tue Jun 18 17:44:44 2019: Not Run: Settings
+Tue Jun 18 17:44:44 2019: FAILED System check
+Tue Jun 18 17:45:00 2019: closed file
+
+Tue Jun 18 17:45:11 2019: opened file
+Tue Jun 18 17:45:11 2019: ===================Location check======================
+Tue Jun 18 17:45:11 2019: Starting test...
+Tue Jun 18 17:45:13 2019: SUCCESSFUL Location check
+Tue Jun 18 17:45:15 2019: ===================System check======================
+Tue Jun 18 17:45:15 2019: Starting test...
+Tue Jun 18 17:45:16 2019: Serial Number: 110014	Build ID: 27712	Firmware Version: 1
+Tue Jun 18 17:45:16 2019: Position Polarity: 1	Motor winding: 4	Exponent: 103	TempCode1: 103	TempCode2: 150	TempThrottle: 128
+Tue Jun 18 17:45:16 2019: Serial Number: 110007	Build ID: 27712	Firmware Version: 1
+Tue Jun 18 17:45:16 2019: Position Polarity: 2	Motor winding: 1	Exponent: 103	TempCode1: 103	TempCode2: 150	TempThrottle: 128
+Tue Jun 18 17:45:17 2019: Success: Handshake
+Tue Jun 18 17:45:17 2019: Success: Config
+Tue Jun 18 17:45:17 2019: Success: Offsets
+Tue Jun 18 17:45:17 2019: Success: Sensors
+Tue Jun 18 17:45:17 2019: Failure: HBridge
+Tue Jun 18 17:45:17 2019: Not Run: Settings
+Tue Jun 18 17:45:17 2019: FAILED System check
+Wed Jun 19 10:14:50 2019: closed file

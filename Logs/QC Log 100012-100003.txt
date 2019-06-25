@@ -1,0 +1,638 @@
+
+
+Wed Jun 19 11:12:07 2019: opened file
+Wed Jun 19 11:12:07 2019: ===================Location check======================
+Wed Jun 19 11:12:07 2019: Starting test...
+Wed Jun 19 11:12:09 2019: SUCCESSFUL Location check
+Wed Jun 19 11:12:15 2019: ===================System check======================
+Wed Jun 19 11:12:15 2019: Starting test...
+Wed Jun 19 11:12:16 2019: Serial Number: 100012	Build ID: 27712	Firmware Version: 1
+Wed Jun 19 11:12:16 2019: Position Polarity: 1	Motor winding: 4	Exponent: 103	TempCode1: 103	TempCode2: 150	TempThrottle: 128
+Wed Jun 19 11:12:16 2019: Serial Number: 100003	Build ID: 27712	Firmware Version: 1
+Wed Jun 19 11:12:16 2019: Position Polarity: 2	Motor winding: 1	Exponent: 103	TempCode1: 103	TempCode2: 150	TempThrottle: 128
+Wed Jun 19 11:12:16 2019: Success: Handshake
+Wed Jun 19 11:12:16 2019: Success: Config
+Wed Jun 19 11:12:16 2019: Success: Offsets
+Wed Jun 19 11:12:16 2019: Success: Sensors
+Wed Jun 19 11:12:16 2019: Success: HBridge
+Wed Jun 19 11:12:16 2019: Failure: Settings
+Wed Jun 19 11:12:16 2019: FAILED System check
+Wed Jun 19 11:13:18 2019: closed file
+
+Fri Jun 21 10:31:21 2019: opened file
+Fri Jun 21 10:31:21 2019: ===================Temp Cycle Test v1.0======================
+Fri Jun 21 10:31:21 2019: Starting test...
+Fri Jun 21 10:35:40 2019: closed file
+
+Fri Jun 21 10:47:00 2019: opened file
+Fri Jun 21 10:47:01 2019: ===================Temp Cycle Test v1.0======================
+Fri Jun 21 10:47:01 2019: Starting test...
+Fri Jun 21 10:50:29 2019: closed file
+
+Fri Jun 21 10:50:49 2019: opened file
+Fri Jun 21 10:50:49 2019: ===================Temp Cycle Test v1.0======================
+Fri Jun 21 10:50:49 2019: Starting test...
+Fri Jun 21 10:51:37 2019: closed file
+
+Fri Jun 21 10:52:00 2019: opened file
+Fri Jun 21 10:52:00 2019: ===================Temp Cycle Test v1.0======================
+Fri Jun 21 10:52:00 2019: Starting test...
+Fri Jun 21 10:52:23 2019: closed file
+
+Fri Jun 21 10:52:46 2019: opened file
+Fri Jun 21 10:52:46 2019: ===================Temp Cycle Test v1.0======================
+Fri Jun 21 10:52:46 2019: Starting test...
+Fri Jun 21 10:56:12 2019: closed file
+
+Fri Jun 21 10:57:52 2019: opened file
+Fri Jun 21 10:57:52 2019: ===================Temp Cycle Test v1.0======================
+Fri Jun 21 10:57:52 2019: Starting test...
+Fri Jun 21 11:01:58 2019: closed file
+
+Fri Jun 21 11:02:34 2019: opened file
+Fri Jun 21 11:02:34 2019: ===================Temp Cycle Test v1.0======================
+Fri Jun 21 11:02:34 2019: Starting test...
+Fri Jun 21 11:02:34 2019: ===================Temp Cycle Test v1.0======================
+Fri Jun 21 11:02:34 2019: Starting test...
+Fri Jun 21 11:02:51 2019: SUCCESSFUL Temp Cycle Test v1.0
+Fri Jun 21 11:04:38 2019: closed file
+
+Fri Jun 21 11:05:00 2019: opened file
+Fri Jun 21 11:05:00 2019: ===================Temp Cycle Test v1.0======================
+Fri Jun 21 11:05:00 2019: Starting test...
+Fri Jun 21 11:05:00 2019: ===================Temp Cycle Test v1.0======================
+Fri Jun 21 11:05:00 2019: Starting test...
+Fri Jun 21 11:05:32 2019: SUCCESSFUL Temp Cycle Test v1.0
+Fri Jun 21 11:24:30 2019: closed file
+
+Fri Jun 21 11:25:09 2019: opened file
+Fri Jun 21 11:25:09 2019: ===================Temp Cycle Test v1.0======================
+Fri Jun 21 11:25:09 2019: Starting test...
+Fri Jun 21 11:25:10 2019: ===================Temp Cycle Test v1.0======================
+Fri Jun 21 11:25:10 2019: Starting test...
+Fri Jun 21 11:25:10 2019: cooling complete (50.41 C). Ramping duty to 150
+Fri Jun 21 11:25:19 2019: heating complete (51.27 C). Ramping duty down to 0
+Fri Jun 21 11:25:21 2019: Cycle 1 complete.
+Fri Jun 21 11:25:27 2019: SUCCESSFUL Temp Cycle Test v1.0
+Fri Jun 21 11:25:32 2019: closed file
+
+Fri Jun 21 12:28:18 2019: opened file
+Fri Jun 21 12:28:18 2019: ===================Location check======================
+Fri Jun 21 12:28:18 2019: Starting test...
+Fri Jun 21 12:28:20 2019: SUCCESSFUL Location check
+Fri Jun 21 12:28:27 2019: closed file
+
+Fri Jun 21 12:28:33 2019: opened file
+Fri Jun 21 12:28:34 2019: ===================Location check v1.0======================
+Fri Jun 21 12:28:34 2019: Starting test...
+Fri Jun 21 12:28:35 2019: SUCCESSFUL Location check v1.0
+Fri Jun 21 12:28:39 2019: ===================Configuration Test v1.0======================
+Fri Jun 21 12:28:39 2019: Starting test...
+Fri Jun 21 12:28:40 2019: Serial Number: 100012	Build ID: 27712	Firmware Version: 1
+Fri Jun 21 12:28:40 2019: Position Polarity: 2	Motor winding: 1	Exponent: 128	TempCode1: 103	TempCode2: 103	TempThrottle: 150
+Fri Jun 21 12:28:40 2019: Serial Number: 100003	Build ID: 27712	Firmware Version: 1
+Fri Jun 21 12:28:40 2019: Position Polarity: 1	Motor winding: 8	Exponent: 128	TempCode1: 103	TempCode2: 103	TempThrottle: 150
+Fri Jun 21 12:28:40 2019: Success: Handshake
+Fri Jun 21 12:28:40 2019: Success: Config
+Fri Jun 21 12:28:40 2019: Success: Offsets
+Fri Jun 21 12:28:40 2019: Success: Sensors
+Fri Jun 21 12:28:40 2019: Success: HBridge
+Fri Jun 21 12:28:40 2019: Success: Settings
+Fri Jun 21 12:28:40 2019: SUCCESSFUL Configuration Test v1.0
+Fri Jun 21 12:28:50 2019: ===================Resistance Test v1.0======================
+Fri Jun 21 12:28:50 2019: Starting test...
+Fri Jun 21 12:28:50 2019: Target Resistance: 1.20 Ohm	Tolerance: 0.20 Ohm
+Fri Jun 21 12:28:52 2019: Orca A
+Fri Jun 21 12:28:52 2019: Res A+: 1.18
+Fri Jun 21 12:28:52 2019: Res A+: 1.18
+Fri Jun 21 12:28:52 2019: Res A+: 1.19
+Fri Jun 21 12:28:52 2019: Res A+: 1.17
+Fri Jun 21 12:28:54 2019: Orca B
+Fri Jun 21 12:28:54 2019: Res A+: 2.14
+Fri Jun 21 12:28:54 2019: Res A+: 2.31
+Fri Jun 21 12:28:54 2019: Res A+: 1.18
+Fri Jun 21 12:28:54 2019: Res A+: 1.17
+Fri Jun 21 12:28:54 2019: FAILED Resistance Test v1.0
+Fri Jun 21 12:29:54 2019: closed file
+
+Fri Jun 21 12:34:53 2019: opened file
+Fri Jun 21 12:34:53 2019: ===================Location check v1.0======================
+Fri Jun 21 12:34:53 2019: Starting test...
+Fri Jun 21 12:34:55 2019: SUCCESSFUL Location check v1.0
+Fri Jun 21 12:34:57 2019: ===================Configuration Test v1.0======================
+Fri Jun 21 12:34:57 2019: Starting test...
+Fri Jun 21 12:34:58 2019: Serial Number: 100012	Build ID: 27712	Firmware Version: 1
+Fri Jun 21 12:34:58 2019: Position Polarity: 2	Motor winding: 1	Exponent: 128	TempCode1: 103	TempCode2: 103	TempThrottle: 150
+Fri Jun 21 12:34:58 2019: Serial Number: 100003	Build ID: 27712	Firmware Version: 1
+Fri Jun 21 12:34:58 2019: Position Polarity: 1	Motor winding: 8	Exponent: 128	TempCode1: 103	TempCode2: 103	TempThrottle: 150
+Fri Jun 21 12:34:59 2019: Success: Handshake
+Fri Jun 21 12:34:59 2019: Success: Config
+Fri Jun 21 12:34:59 2019: Success: Offsets
+Fri Jun 21 12:34:59 2019: Success: Sensors
+Fri Jun 21 12:34:59 2019: Success: HBridge
+Fri Jun 21 12:34:59 2019: Success: Settings
+Fri Jun 21 12:34:59 2019: SUCCESSFUL Configuration Test v1.0
+Fri Jun 21 12:35:02 2019: ===================Resistance Test v1.0======================
+Fri Jun 21 12:35:02 2019: Starting test...
+Fri Jun 21 12:35:02 2019: Target Resistance: 1.20 Ohm	Tolerance: 0.20 Ohm
+Fri Jun 21 12:35:04 2019: Orca A
+Fri Jun 21 12:35:04 2019: Res A+: 1.16
+Fri Jun 21 12:35:04 2019: Res A+: 1.17
+Fri Jun 21 12:35:04 2019: Res A+: 1.19
+Fri Jun 21 12:35:04 2019: Res A+: 1.16
+Fri Jun 21 12:35:06 2019: Orca B
+Fri Jun 21 12:35:06 2019: Res A+: 1.14
+Fri Jun 21 12:35:06 2019: Res A+: 1.16
+Fri Jun 21 12:35:06 2019: Res A+: 1.18
+Fri Jun 21 12:35:06 2019: Res A+: 1.17
+Fri Jun 21 12:35:06 2019: SUCCESSFUL Resistance Test v1.0
+Fri Jun 21 12:35:13 2019: ===================Current Sweep Test v1.0======================
+Fri Jun 21 12:35:13 2019: Starting test...
+Fri Jun 21 12:35:13 2019: ===============================
+Fri Jun 21 12:35:15 2019: Percent of Ideal Current:	Avg: 104%	Stdev1.21%
+Fri Jun 21 12:35:15 2019: Success: OrcaA IA+
+Fri Jun 21 12:35:15 2019: ===============================
+Fri Jun 21 12:35:18 2019: Percent of Ideal Current:	Avg: 102%	Stdev2.44%
+Fri Jun 21 12:35:18 2019: Success: OrcaA IA-
+Fri Jun 21 12:35:18 2019: ===============================
+Fri Jun 21 12:35:20 2019: Percent of Ideal Current:	Avg: 102%	Stdev2.08%
+Fri Jun 21 12:35:20 2019: Success: OrcaA IB+
+Fri Jun 21 12:35:20 2019: ===============================
+Fri Jun 21 12:35:22 2019: Percent of Ideal Current:	Avg: 103%	Stdev3.24%
+Fri Jun 21 12:35:22 2019: Success: OrcaA IB-
+Fri Jun 21 12:35:22 2019: ===============================
+Fri Jun 21 12:35:24 2019: Percent of Ideal Current:	Avg: 107%	Stdev1.58%
+Fri Jun 21 12:35:24 2019: Success: OrcaB IA+
+Fri Jun 21 12:35:24 2019: ===============================
+Fri Jun 21 12:35:26 2019: Percent of Ideal Current:	Avg: 102%	Stdev3.39%
+Fri Jun 21 12:35:26 2019: Success: OrcaB IA-
+Fri Jun 21 12:35:26 2019: ===============================
+Fri Jun 21 12:35:28 2019: Percent of Ideal Current:	Avg: 103%	Stdev1.92%
+Fri Jun 21 12:35:28 2019: Success: OrcaB IB+
+Fri Jun 21 12:35:28 2019: ===============================
+Fri Jun 21 12:35:30 2019: Percent of Ideal Current:	Avg: 103%	Stdev1.59%
+Fri Jun 21 12:35:30 2019: Success: OrcaB IB-
+Fri Jun 21 12:35:30 2019: SUCCESSFUL Current Sweep Test v1.0
+Fri Jun 21 12:35:44 2019: ===================WeightLift Test v1.0======================
+Fri Jun 21 12:35:44 2019: Starting test...
+Fri Jun 21 12:35:44 2019: Target cycles: 10	Spring constant: 
+Fri Jun 21 12:35:44 2019: Cycle start: 1	Temp: 31.68
+Fri Jun 21 12:35:47 2019: FAILED WeightLift Test v1.0
+Fri Jun 21 12:36:05 2019: ===================WeightLift Test v1.0======================
+Fri Jun 21 12:36:05 2019: Starting test...
+Fri Jun 21 12:36:17 2019: Test stopped by user...
+Fri Jun 21 12:36:17 2019: ===================WeightLift Test v1.0======================
+Fri Jun 21 12:36:38 2019: ===================WeightLift Test v1.0======================
+Fri Jun 21 12:36:38 2019: Starting test...
+Fri Jun 21 12:36:40 2019: Test stopped by user...
+Fri Jun 21 12:36:40 2019: ===================WeightLift Test v1.0======================
+Fri Jun 21 12:36:47 2019: ===================WeightLift Test v1.0======================
+Fri Jun 21 12:36:47 2019: Starting test...
+Fri Jun 21 12:36:47 2019: Target cycles: 10	Spring constant: 
+Fri Jun 21 12:36:47 2019: Cycle start: 1	Temp: 32.13
+Fri Jun 21 12:36:47 2019: Cycle complete. 	Time: 1
+Fri Jun 21 12:36:50 2019: Cycle start: 2	Temp: 32.13
+Fri Jun 21 12:36:50 2019: Cycle complete. 	Time: 0
+Fri Jun 21 12:36:53 2019: Cycle start: 3	Temp: 32.57
+Fri Jun 21 12:36:53 2019: Cycle complete. 	Time: 0
+Fri Jun 21 12:36:53 2019: Test stopped by user...
+Fri Jun 21 12:36:53 2019: ===================WeightLift Test v1.0======================
+Fri Jun 21 12:37:05 2019: closed file
+
+Fri Jun 21 13:07:04 2019: opened file
+Fri Jun 21 13:11:18 2019: closed file
+
+Fri Jun 21 13:11:33 2019: opened file
+Fri Jun 21 13:11:33 2019: ===================WeightLift Test v1.1======================
+Fri Jun 21 13:11:33 2019: Starting test...
+Fri Jun 21 13:11:33 2019: Target cycles: 10	Spring constant: 
+Fri Jun 21 13:11:33 2019: Cycle: 1. Temp: 34.28
+Fri Jun 21 13:11:34 2019: Cycle complete. Time: 1699. Force: 106
+Fri Jun 21 13:11:37 2019: Cycle: 2. Temp: 34.28
+Fri Jun 21 13:11:39 2019: Cycle complete. Time: 1699. Force: 106
+Fri Jun 21 13:11:42 2019: Cycle: 3. Temp: 34.28
+Fri Jun 21 13:11:44 2019: Cycle complete. Time: 1699. Force: 106
+Fri Jun 21 13:11:47 2019: Cycle: 4. Temp: 34.70
+Fri Jun 21 13:11:48 2019: Cycle complete. Time: 1700. Force: 106
+Fri Jun 21 13:11:51 2019: Cycle: 5. Temp: 34.70
+Fri Jun 21 13:11:53 2019: Cycle complete. Time: 1700. Force: 106
+Fri Jun 21 13:11:56 2019: Cycle: 6. Temp: 35.10
+Fri Jun 21 13:11:58 2019: Cycle complete. Time: 1700. Force: 106
+Fri Jun 21 13:12:01 2019: Cycle: 7. Temp: 35.52
+Fri Jun 21 13:12:03 2019: Cycle complete. Time: 1702. Force: 107
+Fri Jun 21 13:12:06 2019: Cycle: 8. Temp: 35.52
+Fri Jun 21 13:12:07 2019: Cycle complete. Time: 1701. Force: 107
+Fri Jun 21 13:12:10 2019: Cycle: 9. Temp: 35.91
+Fri Jun 21 13:12:12 2019: Cycle complete. Time: 1701. Force: 106
+Fri Jun 21 13:12:15 2019: Cycle: 10. Temp: 35.91
+Fri Jun 21 13:12:17 2019: Cycle complete. Time: 1702. Force: 107
+Fri Jun 21 13:12:20 2019: SUCCESSFUL WeightLift Test v1.1
+Fri Jun 21 13:12:30 2019: closed file
+
+Fri Jun 21 13:12:40 2019: opened file
+Fri Jun 21 13:12:40 2019: ===================WeightLift Test v1.1======================
+Fri Jun 21 13:12:40 2019: Starting test...
+Fri Jun 21 13:12:40 2019: Target cycles: 10	Spring constant: 
+Fri Jun 21 13:12:40 2019: Cycle: 1. Temp: 36.71
+Fri Jun 21 13:12:42 2019: Cycle complete. Time: 1701. Force: 107-40
+Fri Jun 21 13:12:45 2019: Cycle: 2. Temp: 36.71
+Fri Jun 21 13:12:47 2019: Cycle complete. Time: 1701. Force: 106-43
+Fri Jun 21 13:12:50 2019: Cycle: 3. Temp: 37.09
+Fri Jun 21 13:12:51 2019: Cycle complete. Time: 1700. Force: 106-46
+Fri Jun 21 13:12:54 2019: Cycle: 4. Temp: 37.09
+Fri Jun 21 13:12:56 2019: Cycle complete. Time: 1701. Force: 107-48
+Fri Jun 21 13:12:59 2019: Cycle: 5. Temp: 37.49
+Fri Jun 21 13:13:01 2019: Cycle complete. Time: 1702. Force: 107-44
+Fri Jun 21 13:13:04 2019: Cycle: 6. Temp: 37.49
+Fri Jun 21 13:13:05 2019: Cycle complete. Time: 1702. Force: 107-46
+Fri Jun 21 13:13:08 2019: Cycle: 7. Temp: 37.86
+Fri Jun 21 13:13:10 2019: Cycle complete. Time: 1700. Force: 106-47
+Fri Jun 21 13:13:13 2019: Cycle: 8. Temp: 37.86
+Fri Jun 21 13:13:15 2019: Cycle complete. Time: 1702. Force: 107-43
+Fri Jun 21 13:13:18 2019: Cycle: 9. Temp: 38.25
+Fri Jun 21 13:13:20 2019: Cycle complete. Time: 1702. Force: 107-47
+Fri Jun 21 13:13:23 2019: Cycle: 10. Temp: 38.62
+Fri Jun 21 13:13:24 2019: Cycle complete. Time: 1700. Force: 106-47
+Fri Jun 21 13:13:27 2019: SUCCESSFUL WeightLift Test v1.1
+Fri Jun 21 13:13:44 2019: closed file
+
+Fri Jun 21 13:13:52 2019: opened file
+Fri Jun 21 13:13:52 2019: ===================WeightLift Test v1.1======================
+Fri Jun 21 13:13:52 2019: Starting test...
+Fri Jun 21 13:13:52 2019: Target cycles: 10	Spring constant: 
+Fri Jun 21 13:13:52 2019: Cycle: 1. Temp: 38.98
+Fri Jun 21 13:13:53 2019: Cycle complete. Time: 1702. Force: 59
+Fri Jun 21 13:13:56 2019: Cycle: 2. Temp: 38.98
+Fri Jun 21 13:13:58 2019: Cycle complete. Time: 1701. Force: 58
+Fri Jun 21 13:14:01 2019: Cycle: 3. Temp: 39.36
+Fri Jun 21 13:14:03 2019: Cycle complete. Time: 1704. Force: 66
+Fri Jun 21 13:14:06 2019: Cycle: 4. Temp: 39.36
+Fri Jun 21 13:14:07 2019: Cycle complete. Time: 1704. Force: 68
+Fri Jun 21 13:14:10 2019: Cycle: 5. Temp: 39.36
+Fri Jun 21 13:14:12 2019: Cycle complete. Time: 1702. Force: 61
+Fri Jun 21 13:14:15 2019: Cycle: 6. Temp: 39.36
+Fri Jun 21 13:14:17 2019: Cycle complete. Time: 1700. Force: 60
+Fri Jun 21 13:14:20 2019: Cycle: 7. Temp: 39.72
+Fri Jun 21 13:14:22 2019: Cycle complete. Time: 1701. Force: 63
+Fri Jun 21 13:14:25 2019: Cycle: 8. Temp: 40.09
+Fri Jun 21 13:14:26 2019: Cycle complete. Time: 1703. Force: 65
+Fri Jun 21 13:14:29 2019: Cycle: 9. Temp: 40.09
+Fri Jun 21 13:14:31 2019: Cycle complete. Time: 1702. Force: 62
+Fri Jun 21 13:14:34 2019: Cycle: 10. Temp: 40.44
+Fri Jun 21 13:14:36 2019: Cycle complete. Time: 1704. Force: 62
+Fri Jun 21 13:14:39 2019: SUCCESSFUL WeightLift Test v1.1
+Fri Jun 21 13:15:20 2019: closed file
+
+Fri Jun 21 13:15:29 2019: opened file
+Fri Jun 21 13:15:29 2019: ===================WeightLift Test v1.1======================
+Fri Jun 21 13:15:29 2019: Starting test...
+Fri Jun 21 13:15:29 2019: Target cycles: 10	Spring constant: 
+Fri Jun 21 13:15:29 2019: Cycle: 1. Temp: 40.09
+Fri Jun 21 13:15:31 2019: Cycle complete. Time: 1703. Force: 65
+Fri Jun 21 13:15:34 2019: Cycle: 2. Temp: 40.44
+Fri Jun 21 13:15:36 2019: Cycle complete. Time: 1702. Force: 58
+Fri Jun 21 13:15:39 2019: Cycle: 3. Temp: 40.44
+Fri Jun 21 13:15:40 2019: Cycle complete. Time: 1703. Force: 63
+Fri Jun 21 13:15:43 2019: Cycle: 4. Temp: 40.44
+Fri Jun 21 13:15:45 2019: Cycle complete. Time: 1702. Force: 60
+Fri Jun 21 13:15:48 2019: Cycle: 5. Temp: 40.44
+Fri Jun 21 13:15:50 2019: Cycle complete. Time: 1702. Force: 59
+Fri Jun 21 13:15:53 2019: Cycle: 6. Temp: 40.44
+Fri Jun 21 13:15:54 2019: Cycle complete. Time: 1702. Force: 65
+Fri Jun 21 13:15:57 2019: Cycle: 7. Temp: 40.81
+Fri Jun 21 13:15:59 2019: Cycle complete. Time: 1701. Force: 60
+Fri Jun 21 13:16:02 2019: Cycle: 8. Temp: 41.15
+Fri Jun 21 13:16:04 2019: Cycle complete. Time: 1703. Force: 66
+Fri Jun 21 13:16:07 2019: Cycle: 9. Temp: 41.15
+Fri Jun 21 13:16:09 2019: Cycle complete. Time: 1702. Force: 60
+Fri Jun 21 13:16:12 2019: Cycle: 10. Temp: 41.15
+Fri Jun 21 13:16:13 2019: Cycle complete. Time: 1702. Force: 60
+Fri Jun 21 13:16:16 2019: SUCCESSFUL WeightLift Test v1.1
+Fri Jun 21 13:18:39 2019: closed file
+
+Fri Jun 21 13:18:48 2019: opened file
+Fri Jun 21 13:18:48 2019: ===================WeightLift Test v1.1======================
+Fri Jun 21 13:18:48 2019: Starting test...
+Fri Jun 21 13:18:48 2019: Target cycles: 10	Spring constant: 
+Fri Jun 21 13:18:49 2019: Cycle: 1. Temp: 39.36
+Fri Jun 21 13:18:50 2019: Cycle complete. Time: 1703. Force: 63
+Fri Jun 21 13:18:53 2019: Cycle: 2. Temp: 39.36
+Fri Jun 21 13:18:55 2019: Cycle complete. Time: 1703. Force: 64
+Fri Jun 21 13:18:58 2019: Cycle: 3. Temp: 39.36
+Fri Jun 21 13:19:00 2019: Cycle complete. Time: 1702. Force: 65
+Fri Jun 21 13:19:03 2019: Cycle: 4. Temp: 39.36
+Fri Jun 21 13:19:04 2019: Cycle complete. Time: 1701. Force: 59
+Fri Jun 21 13:19:07 2019: Cycle: 5. Temp: 40.09
+Fri Jun 21 13:19:09 2019: Cycle complete. Time: 1703. Force: 64
+Fri Jun 21 13:19:12 2019: Cycle: 6. Temp: 40.09
+Fri Jun 21 13:19:14 2019: Cycle complete. Time: 1702. Force: 59
+Fri Jun 21 13:19:17 2019: Cycle: 7. Temp: 40.09
+Fri Jun 21 13:19:18 2019: Cycle complete. Time: 1704. Force: 63
+Fri Jun 21 13:19:21 2019: Cycle: 8. Temp: 40.44
+Fri Jun 21 13:19:23 2019: Cycle complete. Time: 1703. Force: 60
+Fri Jun 21 13:19:26 2019: Cycle: 9. Temp: 40.81
+Fri Jun 21 13:19:28 2019: Cycle complete. Time: 1704. Force: 61
+Fri Jun 21 13:19:31 2019: Cycle: 10. Temp: 40.81
+Fri Jun 21 13:19:33 2019: Cycle complete. Time: 1705. Force: 63
+Fri Jun 21 13:19:36 2019: SUCCESSFUL WeightLift Test v1.1
+Fri Jun 21 13:20:41 2019: closed file
+
+Fri Jun 21 13:20:50 2019: opened file
+Fri Jun 21 13:20:50 2019: ===================WeightLift Test v1.1======================
+Fri Jun 21 13:20:50 2019: Starting test...
+Fri Jun 21 13:20:50 2019: Target cycles: 10	Spring constant: 
+Fri Jun 21 13:20:50 2019: Cycle: 1. Temp: 40.44
+Fri Jun 21 13:20:52 2019: Cycle complete. Time: 1700. Force: 59
+Fri Jun 21 13:20:55 2019: Cycle: 2. Temp: 40.44
+Fri Jun 21 13:20:56 2019: Cycle complete. Time: 1701. Force: 59
+Fri Jun 21 13:20:59 2019: Cycle: 3. Temp: 40.81
+Fri Jun 21 13:21:01 2019: Cycle complete. Time: 1703. Force: 63
+Fri Jun 21 13:21:04 2019: Cycle: 4. Temp: 40.81
+Fri Jun 21 13:21:06 2019: Cycle complete. Time: 1702. Force: 61
+Fri Jun 21 13:21:09 2019: Cycle: 5. Temp: 40.81
+Fri Jun 21 13:21:10 2019: Cycle complete. Time: 1703. Force: 61
+Fri Jun 21 13:21:18 2019: closed file
+
+Fri Jun 21 13:21:28 2019: opened file
+Fri Jun 21 13:21:28 2019: ===================WeightLift Test v1.1======================
+Fri Jun 21 13:21:28 2019: Starting test...
+Fri Jun 21 13:21:28 2019: Target cycles: 1	Spring constant: 
+Fri Jun 21 13:21:28 2019: Cycle: 1. Temp: 41.15
+Fri Jun 21 13:21:29 2019: Cycle complete. Time: 1623. Force: 65
+Fri Jun 21 13:21:32 2019: SUCCESSFUL WeightLift Test v1.1
+Fri Jun 21 13:22:10 2019: closed file
+
+Fri Jun 21 13:22:17 2019: opened file
+Fri Jun 21 13:22:17 2019: ===================Current Sweep Test v1.0======================
+Fri Jun 21 13:22:17 2019: Starting test...
+Fri Jun 21 13:22:17 2019: ===============================
+Fri Jun 21 13:22:19 2019: Percent of Ideal Current:	Avg: 100%	Stdev2.78%
+Fri Jun 21 13:22:19 2019: Success: OrcaA IA+
+Fri Jun 21 13:22:19 2019: ===============================
+Fri Jun 21 13:22:21 2019: Percent of Ideal Current:	Avg: 100%	Stdev1.85%
+Fri Jun 21 13:22:21 2019: Success: OrcaA IA-
+Fri Jun 21 13:22:21 2019: ===============================
+Fri Jun 21 13:22:23 2019: Percent of Ideal Current:	Avg: 99%	Stdev2.40%
+Fri Jun 21 13:22:23 2019: Success: OrcaA IB+
+Fri Jun 21 13:22:23 2019: ===============================
+Fri Jun 21 13:22:25 2019: Test stopped by user...
+Fri Jun 21 13:22:25 2019: ===================Current Sweep Test v1.0======================
+Fri Jun 21 13:22:35 2019: ===================WeightLift Test v1.1======================
+Fri Jun 21 13:22:35 2019: Starting test...
+Fri Jun 21 13:22:35 2019: Target cycles: 10	Spring constant: 
+Fri Jun 21 13:22:35 2019: Cycle: 1. Temp: 41.15
+Fri Jun 21 13:22:37 2019: Cycle complete. Time: 1702. Force: 60
+Fri Jun 21 13:22:39 2019: Test stopped by user...
+Fri Jun 21 13:22:39 2019: ===================WeightLift Test v1.1======================
+Fri Jun 21 13:25:21 2019: closed file
+
+Fri Jun 21 13:25:28 2019: opened file
+Fri Jun 21 13:25:28 2019: ===================WeightLift Test v1.1======================
+Fri Jun 21 13:25:28 2019: Starting test...
+Fri Jun 21 13:25:28 2019: Target cycles: 10	Spring constant: 
+Fri Jun 21 13:25:29 2019: Cycle: 1. Temp: 39.36
+Fri Jun 21 13:25:31 2019: Cycle complete. Time: 1703. Force: 62
+Fri Jun 21 13:25:34 2019: Cycle: 2. Temp: 39.36
+Fri Jun 21 13:25:35 2019: Cycle complete. Time: 1701. Force: 62
+Fri Jun 21 13:25:38 2019: Cycle: 3. Temp: 39.36
+Fri Jun 21 13:25:40 2019: Cycle complete. Time: 1703. Force: 65
+Fri Jun 21 13:25:43 2019: Cycle: 4. Temp: 39.72
+Fri Jun 21 13:25:45 2019: Cycle complete. Time: 1705. Force: 64
+Fri Jun 21 13:25:48 2019: Cycle: 5. Temp: 40.09
+Fri Jun 21 13:25:49 2019: Cycle complete. Time: 1703. Force: 61
+Fri Jun 21 13:25:52 2019: Cycle: 6. Temp: 40.09
+Fri Jun 21 13:25:54 2019: Cycle complete. Time: 1703. Force: 65
+Fri Jun 21 13:25:57 2019: Cycle: 7. Temp: 40.09
+Fri Jun 21 13:25:59 2019: Cycle complete. Time: 1702. Force: 62
+Fri Jun 21 13:26:02 2019: Cycle: 8. Temp: 40.44
+Fri Jun 21 13:26:03 2019: Cycle complete. Time: 1701. Force: 60
+Fri Jun 21 13:26:06 2019: Cycle: 9. Temp: 40.81
+Fri Jun 21 13:26:08 2019: Cycle complete. Time: 1699. Force: 59
+Fri Jun 21 13:26:11 2019: Cycle: 10. Temp: 40.81
+Fri Jun 21 13:26:13 2019: Cycle complete. Time: 1703. Force: 65
+Fri Jun 21 13:26:16 2019: SUCCESSFUL WeightLift Test v1.1
+Fri Jun 21 13:26:41 2019: ===================Temp Cycle Test v1.0======================
+Fri Jun 21 13:26:41 2019: Starting test...
+Fri Jun 21 13:26:41 2019: ===================Temp Cycle Test v1.0======================
+Fri Jun 21 13:26:41 2019: Starting test...
+Fri Jun 21 13:26:49 2019: cooling complete (41.15 C). Ramping duty to 150
+Fri Jun 21 13:27:19 2019: heating complete (48.00 C). Ramping duty down to 0
+Fri Jun 21 13:27:21 2019: Cycle 1 complete.
+Fri Jun 21 13:28:54 2019: cooling complete (44.98 C). Ramping duty to 150
+Fri Jun 21 13:30:18 2019: heating complete (41.85 C). Ramping duty down to 0
+Fri Jun 21 13:30:20 2019: Cycle 2 complete.
+Fri Jun 21 13:30:20 2019: cooling complete (41.85 C). Ramping duty to 150
+Fri Jun 21 13:30:22 2019: heating complete (41.51 C). Ramping duty down to 0
+Fri Jun 21 13:30:24 2019: Cycle 3 complete.
+Fri Jun 21 13:30:24 2019: cooling complete (41.49 C). Ramping duty to 150
+Fri Jun 21 13:30:26 2019: heating complete (41.49 C). Ramping duty down to 0
+Fri Jun 21 13:30:28 2019: Cycle 4 complete.
+Fri Jun 21 13:30:28 2019: cooling complete (41.15 C). Ramping duty to 150
+Fri Jun 21 13:30:30 2019: heating complete (41.15 C). Ramping duty down to 0
+Fri Jun 21 13:30:32 2019: Cycle 5 complete.
+Fri Jun 21 13:30:32 2019: SUCCESSFUL Temp Cycle Test v1.0
+Fri Jun 21 13:40:54 2019: closed file
+
+Fri Jun 21 13:45:20 2019: opened file
+Fri Jun 21 13:45:20 2019: ===================Location check v1.0======================
+Fri Jun 21 13:45:20 2019: Starting test...
+Fri Jun 21 13:45:22 2019: SUCCESSFUL Location check v1.0
+Fri Jun 21 13:45:39 2019: ===================Configuration Test v1.0======================
+Fri Jun 21 13:45:39 2019: Starting test...
+Fri Jun 21 13:45:40 2019: Serial Number: 100012	Build ID: 27712	Firmware Version: 1
+Fri Jun 21 13:45:40 2019: Position Polarity: 2	Motor winding: 1	Exponent: 128	TempCode1: 103	TempCode2: 103	TempThrottle: 150
+Fri Jun 21 13:45:40 2019: Serial Number: 100003	Build ID: 27712	Firmware Version: 1
+Fri Jun 21 13:45:40 2019: Position Polarity: 1	Motor winding: 8	Exponent: 128	TempCode1: 103	TempCode2: 103	TempThrottle: 150
+Fri Jun 21 13:45:41 2019: Success: Handshake
+Fri Jun 21 13:45:41 2019: Success: Config
+Fri Jun 21 13:45:41 2019: Success: Offsets
+Fri Jun 21 13:45:41 2019: Success: Sensors
+Fri Jun 21 13:45:41 2019: Success: HBridge
+Fri Jun 21 13:45:41 2019: Success: Settings
+Fri Jun 21 13:45:41 2019: SUCCESSFUL Configuration Test v1.0
+Fri Jun 21 13:48:39 2019: ===================Resistance Test v1.0======================
+Fri Jun 21 13:48:39 2019: Starting test...
+Fri Jun 21 13:48:39 2019: Target Resistance: 1.20 Ohm	Tolerance: 0.20 Ohm
+Fri Jun 21 13:48:41 2019: Orca A
+Fri Jun 21 13:48:41 2019: Res A+: 1.19
+Fri Jun 21 13:48:41 2019: Res A+: 1.19
+Fri Jun 21 13:48:41 2019: Res A+: 1.21
+Fri Jun 21 13:48:41 2019: Res A+: 1.18
+Fri Jun 21 13:48:42 2019: Orca B
+Fri Jun 21 13:48:42 2019: Res A+: 1.15
+Fri Jun 21 13:48:42 2019: Res A+: 1.17
+Fri Jun 21 13:48:42 2019: Res A+: 1.19
+Fri Jun 21 13:48:42 2019: Res A+: 1.18
+Fri Jun 21 13:48:42 2019: SUCCESSFUL Resistance Test v1.0
+Fri Jun 21 13:49:00 2019: ===================WeightLift Test v1.1======================
+Fri Jun 21 13:49:00 2019: Starting test...
+Fri Jun 21 13:49:00 2019: Target cycles: 10	Spring constant: 
+Fri Jun 21 13:49:00 2019: Cycle: 1. Temp: 25.82
+Fri Jun 21 13:49:02 2019: Cycle complete. Time: 1738. Force: 58
+Fri Jun 21 13:49:05 2019: Cycle: 2. Temp: 26.34
+Fri Jun 21 13:49:07 2019: Cycle complete. Time: 1731. Force: 58
+Fri Jun 21 13:49:10 2019: Cycle: 3. Temp: 26.34
+Fri Jun 21 13:49:11 2019: Cycle complete. Time: 1739. Force: 65
+Fri Jun 21 13:49:14 2019: Cycle: 4. Temp: 26.34
+Fri Jun 21 13:49:16 2019: Cycle complete. Time: 1740. Force: 64
+Fri Jun 21 13:49:19 2019: Cycle: 5. Temp: 26.34
+Fri Jun 21 13:49:21 2019: Cycle complete. Time: 1737. Force: 63
+Fri Jun 21 13:49:24 2019: Cycle: 6. Temp: 26.34
+Fri Jun 21 13:49:26 2019: Cycle complete. Time: 1742. Force: 68
+Fri Jun 21 13:49:29 2019: Cycle: 7. Temp: 26.87
+Fri Jun 21 13:49:30 2019: Cycle complete. Time: 1737. Force: 62
+Fri Jun 21 13:49:33 2019: Cycle: 8. Temp: 26.87
+Fri Jun 21 13:49:35 2019: Cycle complete. Time: 1744. Force: 69
+Fri Jun 21 13:49:38 2019: Cycle: 9. Temp: 26.87
+Fri Jun 21 13:49:40 2019: Cycle complete. Time: 1737. Force: 61
+Fri Jun 21 13:49:43 2019: Cycle: 10. Temp: 26.87
+Fri Jun 21 13:49:44 2019: Cycle complete. Time: 1742. Force: 69
+Fri Jun 21 13:49:48 2019: SUCCESSFUL WeightLift Test v1.1
+Fri Jun 21 13:51:43 2019: ===================WeightLift Test v1.1======================
+Fri Jun 21 13:51:43 2019: Starting test...
+Fri Jun 21 13:51:43 2019: Target cycles: 10	Spring constant: 
+Fri Jun 21 13:51:44 2019: Cycle: 1. Temp: 26.34
+Fri Jun 21 13:51:46 2019: Cycle complete. Time: 1720. Force: 65
+Fri Jun 21 13:51:49 2019: Cycle: 2. Temp: 26.34
+Fri Jun 21 13:51:50 2019: Cycle complete. Time: 1717. Force: 62
+Fri Jun 21 13:51:53 2019: Cycle: 3. Temp: 26.34
+Fri Jun 21 13:51:55 2019: Cycle complete. Time: 1741. Force: 70
+Fri Jun 21 13:51:58 2019: Cycle: 4. Temp: 26.34
+Fri Jun 21 13:52:00 2019: Cycle complete. Time: 1739. Force: 68
+Fri Jun 21 13:52:03 2019: Cycle: 5. Temp: 26.87
+Fri Jun 21 13:52:05 2019: Cycle complete. Time: 1741. Force: 72
+Fri Jun 21 13:52:08 2019: Cycle: 6. Temp: 27.38
+Fri Jun 21 13:52:09 2019: Cycle complete. Time: 1743. Force: 69
+Fri Jun 21 13:52:12 2019: Cycle: 7. Temp: 27.38
+Fri Jun 21 13:52:14 2019: Cycle complete. Time: 1744. Force: 73
+Fri Jun 21 13:52:17 2019: Cycle: 8. Temp: 27.89
+Fri Jun 21 13:52:19 2019: Cycle complete. Time: 1746. Force: 73
+Fri Jun 21 13:52:22 2019: Cycle: 9. Temp: 28.39
+Fri Jun 21 13:52:24 2019: Cycle complete. Time: 1744. Force: 73
+Fri Jun 21 13:52:27 2019: Cycle: 10. Temp: 28.39
+Fri Jun 21 13:52:28 2019: Cycle complete. Time: 1744. Force: 74
+Fri Jun 21 13:52:31 2019: SUCCESSFUL WeightLift Test v1.1
+Fri Jun 21 13:57:25 2019: closed file
+
+Fri Jun 21 13:57:42 2019: opened file
+Fri Jun 21 13:57:42 2019: ===================WeightLift Test v1.1======================
+Fri Jun 21 13:57:42 2019: Starting test...
+Fri Jun 21 13:57:42 2019: Target cycles: 3	Spring constant: 
+Fri Jun 21 13:57:42 2019: Cycle: 1. Temp: 26.34
+Fri Jun 21 13:57:44 2019: Cycle complete. Time: 1720. Force: 64
+Fri Jun 21 13:57:47 2019: Cycle: 2. Temp: 26.34
+Fri Jun 21 13:57:49 2019: Cycle complete. Time: 1720. Force: 59
+Fri Jun 21 13:57:52 2019: Cycle: 3. Temp: 26.34
+Fri Jun 21 13:57:53 2019: Cycle complete. Time: 1717. Force: 61
+Fri Jun 21 13:57:56 2019: SUCCESSFUL WeightLift Test v1.1
+Fri Jun 21 13:58:59 2019: closed file
+
+Fri Jun 21 13:59:16 2019: opened file
+Fri Jun 21 13:59:16 2019: ===================WeightLift Test v1.1======================
+Fri Jun 21 13:59:16 2019: Starting test...
+Fri Jun 21 13:59:16 2019: Target cycles: 2	Spring constant: 
+Fri Jun 21 13:59:16 2019: Cycle: 1. Temp: 26.34
+Fri Jun 21 13:59:18 2019: Cycle complete. Time: 1720. Force: 61
+Fri Jun 21 13:59:21 2019: Cycle: 2. Temp: 26.34
+Fri Jun 21 13:59:23 2019: Cycle complete. Time: 1721. Force: 60
+Fri Jun 21 13:59:26 2019: SUCCESSFUL WeightLift Test v1.1
+Fri Jun 21 13:59:32 2019: ===================WeightLift Test v1.1======================
+Fri Jun 21 13:59:32 2019: Starting test...
+Fri Jun 21 13:59:32 2019: Target cycles: 2	Spring constant: 
+Fri Jun 21 13:59:32 2019: Cycle: 1. Temp: 26.34
+Fri Jun 21 13:59:34 2019: Cycle complete. Time: 1726. Force: 63
+Fri Jun 21 13:59:37 2019: Cycle: 2. Temp: 26.34
+Fri Jun 21 13:59:39 2019: Cycle complete. Time: 1723. Force: 62
+Fri Jun 21 13:59:42 2019: SUCCESSFUL WeightLift Test v1.1
+Fri Jun 21 13:59:59 2019: closed file
+
+Fri Jun 21 14:00:07 2019: opened file
+Fri Jun 21 14:00:07 2019: ===================Current Sweep Test v1.0======================
+Fri Jun 21 14:00:07 2019: Starting test...
+Fri Jun 21 14:00:07 2019: ===============================
+Fri Jun 21 14:00:09 2019: Percent of Ideal Current:	Avg: 102%	Stdev1.78%
+Fri Jun 21 14:00:09 2019: Success: OrcaA IA+
+Fri Jun 21 14:00:09 2019: ===============================
+Fri Jun 21 14:00:11 2019: Percent of Ideal Current:	Avg: 101%	Stdev2.44%
+Fri Jun 21 14:00:11 2019: Success: OrcaA IA-
+Fri Jun 21 14:00:11 2019: ===============================
+Fri Jun 21 14:00:13 2019: Percent of Ideal Current:	Avg: 101%	Stdev2.30%
+Fri Jun 21 14:00:13 2019: Success: OrcaA IB+
+Fri Jun 21 14:00:13 2019: ===============================
+Fri Jun 21 14:00:14 2019: Test stopped by user...
+Fri Jun 21 14:00:14 2019: ===================Current Sweep Test v1.0======================
+Fri Jun 21 14:01:03 2019: closed file
+
+Fri Jun 21 14:01:21 2019: opened file
+Fri Jun 21 14:01:21 2019: ===================WeightLift Test v1.1======================
+Fri Jun 21 14:01:21 2019: Starting test...
+Fri Jun 21 14:01:21 2019: Target cycles: 10	Spring constant: 
+Fri Jun 21 14:01:22 2019: Cycle: 1. Temp: 26.34
+Fri Jun 21 14:01:23 2019: Cycle complete. Time: 1719. Force: 55
+Fri Jun 21 14:01:26 2019: Cycle: 2. Temp: 26.34
+Fri Jun 21 14:01:26 2019: Cycle complete. Time: 0. Force: -810
+Fri Jun 21 14:01:29 2019: Cycle: 3. Temp: 26.87
+Fri Jun 21 14:01:29 2019: Cycle complete. Time: 0. Force: -65535
+Fri Jun 21 14:01:32 2019: Cycle: 4. Temp: 27.38
+Fri Jun 21 14:01:32 2019: Cycle complete. Time: 0. Force: -65535
+Fri Jun 21 14:01:35 2019: Cycle: 5. Temp: 27.89
+Fri Jun 21 14:01:35 2019: Cycle complete. Time: 0. Force: -65535
+Fri Jun 21 14:01:37 2019: Test stopped by user...
+Fri Jun 21 14:01:37 2019: ===================WeightLift Test v1.1======================
+Fri Jun 21 14:01:40 2019: ===================WeightLift Test v1.1======================
+Fri Jun 21 14:01:40 2019: Starting test...
+Fri Jun 21 14:01:40 2019: Cycle: 6. Temp: 28.88
+Fri Jun 21 14:01:40 2019: Cycle complete. Time: 2. Force: -65535
+Fri Jun 21 14:01:43 2019: Cycle: 7. Temp: 29.36
+Fri Jun 21 14:01:43 2019: Cycle complete. Time: 0. Force: -65535
+Fri Jun 21 14:01:43 2019: Test stopped by user...
+Fri Jun 21 14:01:43 2019: ===================WeightLift Test v1.1======================
+Fri Jun 21 14:01:47 2019: ===================WeightLift Test v1.1======================
+Fri Jun 21 14:01:47 2019: Starting test...
+Fri Jun 21 14:01:47 2019: Target cycles: 10	Spring constant: 
+Fri Jun 21 14:01:47 2019: Cycle: 1. Temp: 29.36
+Fri Jun 21 14:01:49 2019: Cycle complete. Time: 1728. Force: 65
+Fri Jun 21 14:01:52 2019: Cycle: 2. Temp: 29.84
+Fri Jun 21 14:01:54 2019: Cycle complete. Time: 1742. Force: 63
+Fri Jun 21 14:01:57 2019: Cycle: 3. Temp: 30.31
+Fri Jun 21 14:01:59 2019: Cycle complete. Time: 1743. Force: 63
+Fri Jun 21 14:02:02 2019: Cycle: 4. Temp: 30.31
+Fri Jun 21 14:02:03 2019: Cycle complete. Time: 1740. Force: 60
+Fri Jun 21 14:02:06 2019: Cycle: 5. Temp: 30.31
+Fri Jun 21 14:02:08 2019: Cycle complete. Time: 1742. Force: 64
+Fri Jun 21 14:02:11 2019: Cycle: 6. Temp: 30.76
+Fri Jun 21 14:02:13 2019: Cycle complete. Time: 1741. Force: 64
+Fri Jun 21 14:02:16 2019: Cycle: 7. Temp: 30.76
+Fri Jun 21 14:02:18 2019: Cycle complete. Time: 1744. Force: 63
+Fri Jun 21 14:02:21 2019: Cycle: 8. Temp: 30.76
+Fri Jun 21 14:02:22 2019: Cycle complete. Time: 1739. Force: 59
+Fri Jun 21 14:02:25 2019: Cycle: 9. Temp: 30.76
+Fri Jun 21 14:02:27 2019: Cycle complete. Time: 1739. Force: 61
+Fri Jun 21 14:02:30 2019: Cycle: 10. Temp: 31.21
+Fri Jun 21 14:02:32 2019: Cycle complete. Time: 1742. Force: 67
+Fri Jun 21 14:02:35 2019: SUCCESSFUL WeightLift Test v1.1
+Fri Jun 21 14:02:58 2019: ===================WeightLift Test v1.1======================
+Fri Jun 21 14:02:58 2019: Starting test...
+Fri Jun 21 14:02:58 2019: Target cycles: 10	Spring constant: 
+Fri Jun 21 14:02:58 2019: Cycle: 1. Temp: 30.73
+Fri Jun 21 14:03:00 2019: Cycle complete. Time: 1738. Force: 64
+Fri Jun 21 14:03:03 2019: Cycle: 2. Temp: 31.16
+Fri Jun 21 14:03:05 2019: Cycle complete. Time: 1736. Force: 57
+Fri Jun 21 14:03:08 2019: Cycle: 3. Temp: 31.16
+Fri Jun 21 14:03:10 2019: Cycle complete. Time: 1737. Force: 58
+Fri Jun 21 14:03:13 2019: Cycle: 4. Temp: 31.16
+Fri Jun 21 14:03:14 2019: Cycle complete. Time: 1741. Force: 65
+Fri Jun 21 14:03:17 2019: Cycle: 5. Temp: 31.16
+Fri Jun 21 14:03:19 2019: Cycle complete. Time: 1743. Force: 65
+Fri Jun 21 14:03:22 2019: Cycle: 6. Temp: 31.16
+Fri Jun 21 14:03:24 2019: Cycle complete. Time: 1803. Force: 61
+Fri Jun 21 14:03:27 2019: Cycle: 7. Temp: 32.06
+Fri Jun 21 14:03:29 2019: Cycle complete. Time: 1727. Force: 65
+Fri Jun 21 14:03:32 2019: Cycle: 8. Temp: 32.06
+Fri Jun 21 14:03:33 2019: Cycle complete. Time: 1727. Force: 63
+Fri Jun 21 14:03:36 2019: Cycle: 9. Temp: 32.06
+Fri Jun 21 14:03:38 2019: Cycle complete. Time: 1724. Force: 64
+Fri Jun 21 14:03:41 2019: Cycle: 10. Temp: 32.06
+Fri Jun 21 14:03:43 2019: Cycle complete. Time: 1725. Force: 65
+Fri Jun 21 14:03:46 2019: SUCCESSFUL WeightLift Test v1.1
+Fri Jun 21 14:04:33 2019: closed file
