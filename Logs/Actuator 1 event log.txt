@@ -1,0 +1,16 @@
+
+Tue Nov 10 08:28:06 2020: opened file
+Tue Nov 10 08:28:06 2020: Zynq actuator controller library version: OrcaAPI v6.0.7 zynq
+Tue Nov 10 08:28:06 2020: Starting event log...
+Tue Nov 10 08:28:13 2020: opened file
+Tue Nov 10 08:28:13 2020: Zynq actuator controller library version: OrcaAPI v6.0.7 zynq
+Tue Nov 10 08:28:13 2020: Starting event log...
+Tue Nov 10 08:29:32 2020: opened file
+Tue Nov 10 08:29:32 2020: Zynq actuator controller library version: OrcaAPI v6.0.7 zynq
+Tue Nov 10 08:29:32 2020: Starting event log...
+Tue Nov 10 08:29:49 2020: opened file
+Tue Nov 10 08:29:49 2020: Zynq actuator controller library version: OrcaAPI v6.0.7 zynq
+Tue Nov 10 08:29:49 2020: Starting event log...
+Tue Nov 10 08:33:30 2020: opened file
+Tue Nov 10 08:33:30 2020: Zynq actuator controller library version: OrcaAPI v6.0.7 zynq
+Tue Nov 10 08:33:30 2020: Starting event log...
